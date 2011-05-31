@@ -1,0 +1,1 @@
+Bujagali is recognized as html by default (with the suffix .bg.html) but javascript blocks are painfully monochrome. This set of files will tell vim to detect .bg.html files correctly as "bujagali" and color them appropriately. This includes html syntax highlighting which takes care of html, javascript, css, etc.
